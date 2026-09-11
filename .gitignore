@@ -1,0 +1,18 @@
+# Secrets — never commit
+.env
+.env.*
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cruft
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Editor/OS junk
+.vscode/
+.DS_Store
