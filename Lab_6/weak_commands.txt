@@ -1,2 +1,4 @@
 chmod octal notation
 > vs >>
+pwd
+pwd
