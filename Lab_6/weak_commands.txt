@@ -1,0 +1,2 @@
+chmod octal notation
+> vs >>
